@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxury",
+  "description": "Premium multi-brand retail, editorial commerce, and in-store digital concierge experience by Aura Department Store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
